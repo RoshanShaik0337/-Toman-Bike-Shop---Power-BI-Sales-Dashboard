@@ -37,7 +37,7 @@ This Power BI dashboard provides a comprehensive analysis of sales and rider dat
 
 ## 📷 Screenshots
 
-![Dashboard Overview](screenshot.png)
+![Dashboard Overview](screenshot1.png)
 
 ---
 
@@ -69,7 +69,7 @@ This Power BI dashboard provides a comprehensive analysis of sales and rider dat
 ## 🧾 Author
 
 **Shaik Roshan Basha**  
-[LinkedIn]((https://www.linkedin.com/in/roshan-shaik0337/)) | [Email](mailto:roshanshaik378@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/roshan-shaik0337/) | [Email](mailto:roshanshaik378@gmail.com)
 
 ---
 
