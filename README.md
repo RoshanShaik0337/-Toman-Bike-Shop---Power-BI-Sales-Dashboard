@@ -37,7 +37,7 @@ This Power BI dashboard provides a comprehensive analysis of sales and rider dat
 
 ## 📷 Screenshots
 
-![Dashboard Overview](screenshots/dashboard_full.png)
+![Dashboard Overview](screenshot.png)
 
 ---
 
